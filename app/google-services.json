@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "887829248349",
+    "project_id": "fakestergramapp",
+    "storage_bucket": "fakestergramapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:887829248349:android:8916ca530d8392212610b4",
+        "android_client_info": {
+          "package_name": "com.cedric.fakestergramapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "887829248349-p381c5a1mophdua92ma61m3k7jlj9ff6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa3unuA2fA-PPVpKT5bIYjimiq_b9viHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "887829248349-p381c5a1mophdua92ma61m3k7jlj9ff6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
